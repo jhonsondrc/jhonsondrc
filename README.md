@@ -8,9 +8,8 @@ I'm working as a math teacher :man_teacher:
 I'm a computer science student at the Federal University of Ceará - UFC :man_technologist:
 
 "You may see a mistake as a piece of nonsense to be forgotten or as an outcome that points in a new direction."
-                                                                                               
-                                                                                               
-                                                                                       (Steve Jobs)
+
+(Steve Jobs)
 ### Contact me
 [![Linkedin Badge](https://img.shields.io/badge/-Jhonson%20Carneiro-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonson-carneiro-838190118/)](https://www.linkedin.com/in/jhonson-carneiro-838190118/) 
 [![Gmail Badge](https://img.shields.io/badge/-jhonsondouglasr@gmail.com-6633cc?style=flat-square&logo=Gmail&red=white&link=mailto:jhonsondouglasr@gmail.com)](mailto:jhonsondouglasr@gmail.com)
