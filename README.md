@@ -25,7 +25,7 @@ I'm a computer science student at the Federal University of Ceará - UFC :man_te
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="logo_javascript" width="50" height="50" style="max-width:100%;"></img>
       <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="logo_c" width="50" height="50" style="max-width:100%;"></img>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonsondrc&langs_count=8)](https://github.com/jhonsondrc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonsondrc&langs_count=6)](https://github.com/jhonsondrc/github-readme-stats)
 
 <a href="https://icons8.com/icon/118553/github">GitHub icon by Icons8</a>
 <!--
