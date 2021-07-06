@@ -19,11 +19,6 @@ I'm a computer science student at the Federal University of Ceará - UFC :man_te
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="logo_git" width="70" height="70" style="max-width:100%;"></img>
       <img align="center" src="https://img.icons8.com/bubbles/50/000000/github.png" alt="logo_github" width="40" height="40" style="max-width:100%;"></img>
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="logo_html5" width="50" height="50" style="max-width:100%;"></img>
-### I'm Studying
-  
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="logo_css3" width="50" height="50" style="max-width:100%;"></img>
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="logo_javascript" width="50" height="50" style="max-width:100%;"></img>
-      <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="logo_c" width="50" height="50" style="max-width:100%;"></img>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonsondrc&langs_count=6)](https://github.com/jhonsondrc/github-readme-stats)
 
